@@ -12,13 +12,13 @@ My interests revolve around **full-stack development, data systems, and automati
 ## Tech Stack
 
 **Languages**
-Java • Python • JavaScript • Dart
+Java • Python • JavaScript • Dart • Typescript
 
 **Frontend**
 React • HTML • CSS • Chart.js
 
 **Backend & Databases**
-Node.js • PHP • SQL
+Node.js • PHP • SQL • PostGres • Express  
 
 **Tools & Systems**
 Linux • Git • REST APIs
